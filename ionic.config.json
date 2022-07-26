@@ -1,0 +1,7 @@
+{
+  "name": "nutrifood-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
